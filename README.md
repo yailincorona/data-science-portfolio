@@ -36,16 +36,6 @@ Welcome to my portfolio! I am a data science student at Arizona State University
 
 ---
 
-##  Contact
+##  Contact 
 
 
-
-
-
-
-
-
-
-
-- LinkedIn: https://www.linkedin.com/in/**yourusername**
-- Email: **youremail@example.com*
