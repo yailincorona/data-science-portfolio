@@ -18,7 +18,9 @@ Overview: Analyzed global cybersecurity attack data from 2015-2024 to identify t
 - R Programming
 - Statistical Reporting
 - Data Cleaning, Visualization, and Exploratory Data Analysis
+
 **Repo:** https://github.com/yailincorona/cyber-attack-analysis
+
 **README:** https://github.com/yailincorona/cyber-attack-analysis/blob/main/README.md
 
 ---
@@ -28,7 +30,9 @@ Overview: Examined the impact of artificial intelligence on digital markets thro
 - Market Intelligence
 - Data Visualization & Strategic Reporting
 - Business & Research Analytics and Trend Analysis
+
 **Dashboard:** https://github.com/yailincorona/ai-digital-markets-analysis
+
 **README:** https://github.com/yailincorona/ai-digital-markets-analysis/blob/main/README.md
 
 ---
