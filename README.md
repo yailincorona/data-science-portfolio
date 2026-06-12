@@ -31,7 +31,7 @@ Overview: Examined the impact of artificial intelligence on digital markets thro
 - Data Visualization & Strategic Reporting
 - Business & Research Analytics and Trend Analysis
 
-**Dashboard:** https://github.com/yailincorona/ai-digital-markets-analysis
+**Repo:** https://github.com/yailincorona/ai-digital-markets-analysis
 
 **README:** https://github.com/yailincorona/ai-digital-markets-analysis/blob/main/README.md
 
