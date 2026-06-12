@@ -1,9 +1,9 @@
 # data-science-portfolio
-Portfolio of my data science projects, including machine learning, analytics, and dashboards.
+This portfolio contains projects that contain the various skills I've learned and developed though my courses and my personal curiosity by delving into various datasets. 
 
 # Data Science Portfolio – Yailin Corona-Ruezga
 
-Welcome to my portfolio! I am a data science student at Arizona State University with experience in:
+Welcome to my portfolio! I am currently data science student at Arizona State University expected to graduate in Fall 2027 with experience in:
 
 - Python (pandas, numpy, scikit-learn)
 - SQL (MySQL / PostgreSQL)
